@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c#bead\\Autoszerelo\\Autoszerelo\\Autoszerelo.csproj": {}
+    "D:\\c#bead\\Autoszerelo\\AutoRepairShop.Api\\AutoRepairShop.Api.csproj": {}
   },
   "projects": {
-    "D:\\c#bead\\Autoszerelo\\Autoszerelo\\Autoszerelo.csproj": {
+    "D:\\c#bead\\Autoszerelo\\AutoRepairShop.Api\\AutoRepairShop.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c#bead\\Autoszerelo\\Autoszerelo\\Autoszerelo.csproj",
-        "projectName": "Autoszerelo",
-        "projectPath": "D:\\c#bead\\Autoszerelo\\Autoszerelo\\Autoszerelo.csproj",
+        "projectUniqueName": "D:\\c#bead\\Autoszerelo\\AutoRepairShop.Api\\AutoRepairShop.Api.csproj",
+        "projectName": "AutoRepairShop.Api",
+        "projectPath": "D:\\c#bead\\Autoszerelo\\AutoRepairShop.Api\\AutoRepairShop.Api.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\c#bead\\Autoszerelo\\Autoszerelo\\obj\\",
+        "outputPath": "D:\\c#bead\\Autoszerelo\\AutoRepairShop.Api\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
