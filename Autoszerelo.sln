@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoszerelo", "Autoszerelo\Autoszerelo.csproj", "{3166BF22-3AA5-4050-A38F-60CFC7DE0D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autoszerelowebass", "Autoszerelowebass\Autoszerelowebass.csproj", "{3DA25246-51F9-4960-8D84-1B3F56503B99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3166BF22-3AA5-4050-A38F-60CFC7DE0D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3166BF22-3AA5-4050-A38F-60CFC7DE0D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3166BF22-3AA5-4050-A38F-60CFC7DE0D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3166BF22-3AA5-4050-A38F-60CFC7DE0D87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA25246-51F9-4960-8D84-1B3F56503B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA25246-51F9-4960-8D84-1B3F56503B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA25246-51F9-4960-8D84-1B3F56503B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA25246-51F9-4960-8D84-1B3F56503B99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
